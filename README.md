@@ -5,8 +5,9 @@ I am BHUPESH-PATEL.
 <hr color=yellow>
 ### 🌟 Technologies I've worked with:
 <br>
+<div style="display:flex; margin-left:5px;">
 -JAVA  <img style="margin:5px;" src="https://dev.java/assets/images/java-logo-vector.png" alt="JAVA" width="40" height="40"/>
-  
+  </div>
 <br>
 -JAVA SCRIPT
 <br>
